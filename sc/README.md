@@ -30,7 +30,52 @@ The **Lt.Commander** is the actual domain owner who manages its contents and has
 > ***No one can break the machine.***
 
 
+## How to claim a domain label
 
+When the sunrise phase of the top level domain has passed, anyone can claim domain labels on a first come first serve basis.
+To prevent transaction pool attack vectors, one first needs to reserve the sha256 hash of the domain label before claiming it.
+
+```
+Reserve(1, "5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c")
+Claim(1, "welcome-home")
+```
+
+The Reserve and Claim functions can impose a fixed fee in DERI (0.00001 DERO = 1 DERI) . The fee is set by the Commander.
+If one sends not enough DERI to invoke the function, the smart contract will just return the DERI to the sender.
+If one sends too much DERI, the smart contract will refund the change.
+
+During the sunrise phase, only the Commander of that top level domain can reserve and claim domain labels.
+
+
+## How to trade a domain label
+
+The smart contract offers the following function pairs to provide a platform for trustless and permissionless trading of domain labels without intermediary.
+If the domain label is locked, then the Claim* functions are blocked, an owner change is impossible.
+
+```
+Transfer(1, "welcome-home", "deto1qyx7qyvrtrhvaszeej487k2g689fav7h38ay37fja9qf40ycgl0m2qg8ap2y9", 100000)
+ClaimTransfer(1, "welcome-home")
+```
+
+The Transfer function allows to transfer a domain for a specific quantity of DERI (can be 0) to a specific destination account.<br>
+The ClaimTransfer function has to be invoked by the destination account after the sending account initiated the transfer. The destination account has to send the required amount of DERI in the same transaction to successfully claim the transfer.<br>
+
+```
+Offer(1, "welcome-home", 100000)
+ClaimOffer(1, "welcome-home")
+```
+
+The Offer function allows a domain label owner to offer the label for a set quantity of DERI for anyone to claim.<br>
+The ClaimOffer function allows anyone that sends enough DERI to claim the offer.
+
+
+```
+Bid(1, "welcome-home")
+ClaimBid(1, "welcome-home", 100000)
+```
+
+The Bid function allows anyone to make an offer for a domain label. Only the highest bid is available. If one makes a bid, the new bid must be higher than the current one. A bid has a minimum time before the bidder can cancel it. The bidder must include the actual amount of DERI in the transaction to place the bid. The former bidder will receive back the DERI from the previous bid.<br>
+The ClaimBid function has to be invoked by the domain label owner to accept the bid and receive the DERI.
 
 
 
@@ -224,6 +269,9 @@ Parameters:
 tld - top level domain id
 l - domain label
 
+Example:
+ClaimOffer(1, "welcome-home")
+
 
 Function Bid(tld Uint64, l String) Uint64
 
@@ -233,6 +281,9 @@ Requires to send DERI with the transaction.
 Parameters:
 tld - top level domain id
 l - domain label
+
+Example:
+Bid(1, "welcome-home")
 
 
 Function ClaimBid(tld Uint64, l String, v Uint64) Uint64
