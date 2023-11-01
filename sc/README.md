@@ -18,7 +18,7 @@ A **Commander** is managing the settings for a single top level domain, can defi
 
 The **P-Admin**, which is the Commander by default, manages a public key/value store space for a specific top level domain, which can be utilized to provide additional services or information, such as trusted public DNS resolvers.
 
-The **Lt.Commander** is the actual domain owner who manages its contents and has the authority to trade it.<br>
+The **Lt. Commander** is the actual domain owner who manages its contents and has the authority to trade it.<br>
 <br>
 
 > [!IMPORTANT]
@@ -45,6 +45,16 @@ If one sends not enough DERI to invoke the function, the smart contract will jus
 If one sends too much DERI, the smart contract will refund the change.
 
 During the sunrise phase, only the Commander of that top level domain can reserve and claim domain labels.
+If a domain label expired it enters an orphaned period during which it can be reserved and claimed only by the Commander.
+
+## How to renew a domain label
+
+```
+Extend(1, "welcome-home", 1)
+```
+
+Anyone can extend the registration time for any domain label by any amount. When invoking the function Extend, a multiplier for the extension period has to be provided.a
+
 
 
 ## How to trade a domain label
@@ -78,6 +88,26 @@ The Bid function allows anyone to make an offer for a domain label. Only the hig
 The ClaimBid function has to be invoked by the domain label owner to accept the bid and receive the DERI.
 
 
+## How to lock a domain label
+
+```
+SetLock(1, "welcome-home", 1704088800)
+SetLock(1, "welcome-home", 18446744073709551615)
+```
+
+The SetLock function allows the domain label owner to resign from all authority over the domain label until a timestamp has passed. Nobody will be able to update the data stored with the domain label. Owner transfers (bid, offer, transfer) are impossible. The only way to release the lock of a domain label is to let it expire and then claim it again.<br>
+Locking a domain label is useful in situation where it is necessary to delegate all authority over the stored data to a different smart contract.
+
+
+## How to update a domain label
+
+```
+Update(1, "welcome-home", <DATA>, "msgpack/zlib")
+```
+
+The domain label owner is authorized to update the data stored on the blockchain. <DATA> can be any hexencoded string of approx. 6600 bytes. The Commander can set a fixed fee for performing updates. "msgpack/zlib" is a data encoding that DeroNS supports to maximize the quantity of data that can be stored in the available space. The encoding is an arbitrary string to inform reading apps of how to handle the data.
+<br>
+<br>
 
 
 ## Public functions:
