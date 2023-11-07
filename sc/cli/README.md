@@ -35,5 +35,5 @@ The script `getScStatus_testnet.sh` expects a **daemon rpc** accessible to `127.
 
 ### Explanation
 `Update` invoke the Update function of the smart contract<br>
-`1 homebase` for the domain label homebase at the top level domain id 1 (.dero = homebase.dero)
+`1 homebase` for the domain label `homebase` at the top level domain id 1 (.dero = homebase.dero)<br>
 `zone-homebase.dero-example.json` convert the content (json string) of this file to zlib compressed msgpack data for the update
