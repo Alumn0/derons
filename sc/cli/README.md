@@ -9,7 +9,7 @@ sha256sum<br>
 head<br>
 
 The wrapper expects a **testnet wallet** rpc accessible at `127.0.0.1:40403` with no authentication.<br>
-The script `getScStatus_testnet.sh` expects a **daemon rpc** accessible to `127.0.0.1:40402` with no authentication.
+The script `getScStatus_testnet.sh` expects a **daemon rpc** accessible at `127.0.0.1:40402` with no authentication.
 
 ## Invoking smart contract functions
 
