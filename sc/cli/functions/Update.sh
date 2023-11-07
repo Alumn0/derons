@@ -1,0 +1,17 @@
+ENTRYPOINT=Update
+PARAM1NAME=tld
+PARAM1TYPE=U
+PARAM2NAME="l"
+PARAM2TYPE=S
+PARAM3NAME="z"
+PARAM3TYPE=S
+PARAM4NAME="e"
+PARAM4TYPE=S
+WALLET="$1"
+DEROVALUE="$2"
+SCID="$3"
+RINGSIZE="$4"
+PARAM1="$5"
+PARAM2='"'"$6"'"'
+PARAM3='"'$(cat "$7" | jq -c . | json2msgpack | pigz -z -9 | xxd -p -c 100000)'"'
+PARAM4='"'"msgpack/zlib"'"'

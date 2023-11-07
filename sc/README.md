@@ -10,7 +10,7 @@ There are four roles implemented:
 1. Captain
 2. Commander
 3. P-Admin
-4. Lt.Commander
+4. Lt. Commander
 
 The **Captain** is managing the availability of top level domains and can impose royalties on Commanders.
 
