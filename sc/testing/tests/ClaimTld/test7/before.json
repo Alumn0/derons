@@ -1,0 +1,22 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "stringkeys": {
+      "c,captain": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "c,created": 1706071951,
+      "c,created,height": 1669,
+      "c,t,avail": 2,
+      "c,t,fee,royalty,max": 3000,
+      "t,r,counter": 1,
+      "t,r,d9c10a26cc52b9cd61d99d1a7e62df59caddd39835c148d82ccd43f346c10176": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "t,r,d9c10a26cc52b9cd61d99d1a7e62df59caddd39835c148d82ccd43f346c10176,e": 1706072012
+    },
+    "balances": {
+      "0000000000000000000000000000000000000000000000000000000000000000": 0
+    },
+    "balance": 0,
+    "code": "",
+    "status": "OK"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "added": {
+        "c,captain,balance": 120,
+        "t,1,c,balance": 280,
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c,e": 1706072489,
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c,e_human": "2024-01-24 05:01:29",
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c,e_offset": 119,
+        "t,1,r,80aafc29df68e13bb0bb84d6545378f64178df6e4c8791264af094b1ca17e717": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+        "t,1,r,80aafc29df68e13bb0bb84d6545378f64178df6e4c8791264af094b1ca17e717,e": 1706072490,
+        "t,1,r,80aafc29df68e13bb0bb84d6545378f64178df6e4c8791264af094b1ca17e717,e_human": "2024-01-24 05:01:30",
+        "t,1,r,80aafc29df68e13bb0bb84d6545378f64178df6e4c8791264af094b1ca17e717,e_offset": 120,
+        "t,1,r,counter": 2
+    },
+    "changed": {
+        "before": {
+            "balance": 0
+        },
+        "after": {
+            "balance": 400
+        }
+    },
+    "timestamp": 1706072370,
+    "timestamp_human": "2024-01-24 04:59:30"
+}

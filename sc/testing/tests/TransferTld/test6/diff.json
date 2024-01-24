@@ -1,0 +1,19 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072814,
+            "t,1,c,updated_human": "2024-01-24 05:06:54",
+            "t,1,c,updated_offset": -21
+        },
+        "after": {
+            "t,1,c,updated": 1706072834,
+            "t,1,c,updated_human": "2024-01-24 05:07:14",
+            "t,1,c,updated_offset": -1
+        }
+    },
+    "added": {
+        "t,1,c,commander,c": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501"
+    },
+    "timestamp": 1706072835,
+    "timestamp_human": "2024-01-24 05:07:15"
+}

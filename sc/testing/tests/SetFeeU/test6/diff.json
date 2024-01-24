@@ -1,0 +1,20 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,fee,25": 221133,
+            "t,1,c,fee,25_human": 221133,
+            "t,1,c,updated": 1706072493,
+            "t,1,c,updated_human": "2024-01-24 05:01:33",
+            "t,1,c,updated_offset": -3
+        },
+        "after": {
+            "t,1,c,fee,25": 555555,
+            "t,1,c,fee,25_human": "UUU",
+            "t,1,c,updated": 1706072495,
+            "t,1,c,updated_human": "2024-01-24 05:01:35",
+            "t,1,c,updated_offset": -1
+        }
+    },
+    "timestamp": 1706072496,
+    "timestamp_human": "2024-01-24 05:01:36"
+}

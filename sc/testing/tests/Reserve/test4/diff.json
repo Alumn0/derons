@@ -1,0 +1,23 @@
+{
+    "changed": {
+        "before": {
+            "c,captain,balance": 750,
+            "t,1,c,balance": 1750,
+            "balance": 2500
+        },
+        "after": {
+            "c,captain,balance": 810,
+            "t,1,c,balance": 1890,
+            "balance": 2700
+        }
+    },
+    "added": {
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c,e": 1706072319,
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c,e_human": "2024-01-24 04:58:39",
+        "t,1,r,5747a72836c99bb6a5287dbb6aadf589778a1e8c676e5808d1f2415bfb030c9c,e_offset": 9,
+        "t,1,r,counter": 1
+    },
+    "timestamp": 1706072310,
+    "timestamp_human": "2024-01-24 04:58:30"
+}

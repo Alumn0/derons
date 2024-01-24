@@ -4,7 +4,7 @@ Function Initialize() Uint64
 3 STORE("c,created,height", BLOCK_HEIGHT())
 4 STORE("c,captain", SIGNER())
 5 STORE("c,t,fee,royalty,max", 3000)
-6 STORE("c,t,avail", 1)
+6 STORE("c,t,avail", 2)
 7 RETURN 0
 End Function
 

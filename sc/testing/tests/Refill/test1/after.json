@@ -1,0 +1,24 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "stringkeys": {
+      "c,captain": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "c,created": 1706072214,
+      "c,created,height": 1827,
+      "c,t,avail": 3,
+      "c,t,avail,max": 5,
+      "c,t,fee,royalty,max": 3000,
+      "c,t,refill": 1706072229,
+      "c,t,refill,amount": 1,
+      "c,t,refill,interval": 10,
+      "c,updated": 1706072219
+    },
+    "balances": {
+      "0000000000000000000000000000000000000000000000000000000000000000": 0
+    },
+    "balance": 0,
+    "code": "",
+    "status": "OK"
+  }
+}

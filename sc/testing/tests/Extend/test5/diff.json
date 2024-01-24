@@ -1,0 +1,30 @@
+{
+    "changed": {
+        "before": {
+            "c,captain,balance": 420,
+            "t,1,c,balance": 3780,
+            "t,1,c,balance_human": 3780,
+            "t,1,l,77656c636f6d652d686f6d65,e": 1706169356,
+            "t,1,l,77656c636f6d652d686f6d65,e_human": "2024-01-25 07:55:56",
+            "t,1,l,77656c636f6d652d686f6d65,e_offset": 97189,
+            "t,1,l,77656c636f6d652d686f6d65,u": 1706072162,
+            "t,1,l,77656c636f6d652d686f6d65,u_human": "2024-01-24 04:56:02",
+            "t,1,l,77656c636f6d652d686f6d65,u_offset": -5,
+            "balance": 4200
+        },
+        "after": {
+            "c,captain,balance": 470,
+            "t,1,c,balance": 4230,
+            "t,1,c,balance_human": "B0",
+            "t,1,l,77656c636f6d652d686f6d65,e": 1706172956,
+            "t,1,l,77656c636f6d652d686f6d65,e_human": "2024-01-25 08:55:56",
+            "t,1,l,77656c636f6d652d686f6d65,e_offset": 100789,
+            "t,1,l,77656c636f6d652d686f6d65,u": 1706072167,
+            "t,1,l,77656c636f6d652d686f6d65,u_human": "2024-01-24 04:56:07",
+            "t,1,l,77656c636f6d652d686f6d65,u_offset": 0,
+            "balance": 4700
+        }
+    },
+    "timestamp": 1706072167,
+    "timestamp_human": "2024-01-24 04:56:07"
+}

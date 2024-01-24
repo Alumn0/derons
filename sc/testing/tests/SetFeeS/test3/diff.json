@@ -1,0 +1,24 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072435,
+            "t,1,c,updated_human": "2024-01-24 05:00:35",
+            "t,1,c,updated_offset": -13
+        },
+        "after": {
+            "t,1,c,updated": 1706072448,
+            "t,1,c,updated_human": "2024-01-24 05:00:48",
+            "t,1,c,updated_offset": 0
+        }
+    },
+    "added": {
+        "t,1,c,fee,bid": 2000,
+        "t,1,c,fee,default": 5000,
+        "t,1,c,fee,offer": 1500,
+        "t,1,c,fee,reserve": 500,
+        "t,1,c,fee,transfer": 1000,
+        "t,1,c,fee,update": 250
+    },
+    "timestamp": 1706072448,
+    "timestamp_human": "2024-01-24 05:00:48"
+}

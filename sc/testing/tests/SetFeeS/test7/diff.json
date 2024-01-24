@@ -1,0 +1,28 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,fee,bid": 2000,
+            "t,1,c,fee,default": 5000,
+            "t,1,c,fee,offer": 1500,
+            "t,1,c,fee,reserve": 500,
+            "t,1,c,fee,transfer": 1000,
+            "t,1,c,fee,update": 250,
+            "t,1,c,updated": 1706072459,
+            "t,1,c,updated_human": "2024-01-24 05:00:59",
+            "t,1,c,updated_offset": -9
+        },
+        "after": {
+            "t,1,c,fee,bid": 300,
+            "t,1,c,fee,default": 3000,
+            "t,1,c,fee,offer": 1300,
+            "t,1,c,fee,reserve": 300,
+            "t,1,c,fee,transfer": 530,
+            "t,1,c,fee,update": 130,
+            "t,1,c,updated": 1706072468,
+            "t,1,c,updated_human": "2024-01-24 05:01:08",
+            "t,1,c,updated_offset": 0
+        }
+    },
+    "timestamp": 1706072468,
+    "timestamp_human": "2024-01-24 05:01:08"
+}

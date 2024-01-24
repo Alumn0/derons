@@ -1,0 +1,28 @@
+{
+    "changed": {
+        "before": {
+            "c,captain,balance": 175,
+            "t,1,c,balance": 525,
+            "t,1,l,77656c636f6d652d686f6d65": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501",
+            "t,1,l,77656c636f6d652d686f6d65,u": 1706072011,
+            "t,1,l,77656c636f6d652d686f6d65,u_human": "2024-01-24 04:53:31",
+            "t,1,l,77656c636f6d652d686f6d65,u_offset": -26,
+            "balance": 5700
+        },
+        "after": {
+            "c,captain,balance": 200,
+            "t,1,c,balance": 600,
+            "t,1,l,77656c636f6d652d686f6d65": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+            "t,1,l,77656c636f6d652d686f6d65,u": 1706072037,
+            "t,1,l,77656c636f6d652d686f6d65,u_human": "2024-01-24 04:53:57",
+            "t,1,l,77656c636f6d652d686f6d65,u_offset": 0,
+            "balance": 5800
+        }
+    },
+    "deleted": {
+        "t,1,l,77656c636f6d652d686f6d65,c": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+        "t,1,l,77656c636f6d652d686f6d65,c,v": 1000
+    },
+    "timestamp": 1706072037,
+    "timestamp_human": "2024-01-24 04:53:57"
+}

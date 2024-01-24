@@ -1,0 +1,19 @@
+{
+    "deleted": {
+        "c,captain,c": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301"
+    },
+    "changed": {
+        "before": {
+            "c,updated": 1706072793,
+            "c,updated_human": "2024-01-24 05:06:33",
+            "c,updated_offset": -3
+        },
+        "after": {
+            "c,updated": 1706072795,
+            "c,updated_human": "2024-01-24 05:06:35",
+            "c,updated_offset": -1
+        }
+    },
+    "timestamp": 1706072796,
+    "timestamp_human": "2024-01-24 05:06:36"
+}

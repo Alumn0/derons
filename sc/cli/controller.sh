@@ -9,7 +9,7 @@ if [[ -f "$FUNCTION" ]]; then
     source "$FUNCTION"
     source "$BUILDCMD"
 else
-    echo -n "Error: Unknown script '${FUNCTION}'\n"
+    echo -e "Error: Unknown script '${FUNCTION}'\n"
     exit 1
 fi
 

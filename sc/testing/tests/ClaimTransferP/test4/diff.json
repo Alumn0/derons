@@ -1,0 +1,21 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072056,
+            "t,1,c,updated_human": "2024-01-24 04:54:16",
+            "t,1,c,updated_offset": -16,
+            "t,1,p": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301"
+        },
+        "after": {
+            "t,1,c,updated": 1706072072,
+            "t,1,c,updated_human": "2024-01-24 04:54:32",
+            "t,1,c,updated_offset": 0,
+            "t,1,p": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501"
+        }
+    },
+    "deleted": {
+        "t,1,pc": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501"
+    },
+    "timestamp": 1706072072,
+    "timestamp_human": "2024-01-24 04:54:32"
+}

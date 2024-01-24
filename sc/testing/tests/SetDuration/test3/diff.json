@@ -1,0 +1,23 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072404,
+            "t,1,c,updated_human": "2024-01-24 05:00:04",
+            "t,1,c,updated_offset": -17
+        },
+        "after": {
+            "t,1,c,updated": 1706072420,
+            "t,1,c,updated_human": "2024-01-24 05:00:20",
+            "t,1,c,updated_offset": -1
+        }
+    },
+    "added": {
+        "t,1,c,duration,bid": 300,
+        "t,1,c,duration,extend": 15778800,
+        "t,1,c,duration,orphan": 7889400,
+        "t,1,c,duration,register": 31557600,
+        "t,1,c,duration,reserve": 600
+    },
+    "timestamp": 1706072421,
+    "timestamp_human": "2024-01-24 05:00:21"
+}

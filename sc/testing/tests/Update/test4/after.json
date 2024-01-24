@@ -1,0 +1,50 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "stringkeys": {
+      "c,captain": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "c,captain,balance": 180,
+      "c,created": 1706072842,
+      "c,created,height": 2178,
+      "c,t,avail": 1,
+      "c,t,fee,royalty,max": 3000,
+      "t,1": "6465726f",
+      "t,1,c,balance": 1620,
+      "t,1,c,commander": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+      "t,1,c,duration,extend": 3600,
+      "t,1,c,duration,register": 86400,
+      "t,1,c,duration,reserve": 120,
+      "t,1,c,fee,bid": 1500,
+      "t,1,c,fee,default": 500,
+      "t,1,c,fee,offer": 2000,
+      "t,1,c,fee,reserve": 200,
+      "t,1,c,fee,royalty": 1000,
+      "t,1,c,fee,transfer": 1000,
+      "t,1,c,fee,update": 100,
+      "t,1,c,l,length,max": 20,
+      "t,1,c,l,length,min": 8,
+      "t,1,c,registered": 1706072844,
+      "t,1,c,sunrise": 0,
+      "t,1,c,updated": 1706072860,
+      "t,1,l,77656c636f6d652d686f6d65": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501",
+      "t,1,l,77656c636f6d652d686f6d65,e": 1706159262,
+      "t,1,l,77656c636f6d652d686f6d65,r": 1706072862,
+      "t,1,l,77656c636f6d652d686f6d65,u": 1706072871,
+      "t,1,l,77656c636f6d652d686f6d65,z": "78da8591416b13411cc51b4a0ff526f42278985ef4a05d76366d4d02824b2ba8b441ecd2f63ac98ce9c06427ee4cb27a119234374fed27984e1a0f6d5014da7e016f6e4f85d28be0d54fe1cc82ba5b0dee6198fdbfb733effdb6ab7128dea9478383f5edbdbea237943c6d22ca9c98b03a6f92851db3389844dcd152b2a470bfa7e89c9267d6e4fdc3a5fcfd9e9247b0ec3970b9e440079aefd692bbedccc8cbec8b43df3cfb479eebc20aae952a1598d97bf6ac3fafc53443f5870eb6037bcdc7ce43d17a090102cdd7e02d624ccb80256ef9f809618c832d1e313cfff9595b4880422e7748042252e711b699cea70aceecd0f6e82b94cfbca803c98cdebf33443ef2f3218c18ac25dd2f7a23dadc1b283aa5e2826a25d3dfff83ee361858bebfcd13115af7d76f87a9dc57fe38c3d275535ce30c2dd7b57e1376faa68ee37857f999224b7fd12d669be48b2da531ef5d5aba46f9b44a858c68ad2d0906b5376065b59a1a2ea0de78b1b99b169f51ad5b936b0f6b8c37bab940cbba8ec35e6ef420e5399ed7a845f34ac926f9e03f7f0a3a24129487003aee7b21518386d7ce2d6b4c3a66749c853542421029ae8de18836518388eee14ad55f7f6c9a9e984c93fedad5ab518762c27fd927787f02abe937f8",
+      "t,1,l,77656c636f6d652d686f6d65,z,e": "6d73677061636b2f7a6c6962",
+      "t,1,l,counter": 1,
+      "t,1,p": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+      "t,1,r,counter": 1,
+      "t,count": 1,
+      "t,list,6465726f": "742c31",
+      "t,r,counter": 1
+    },
+    "balances": {
+      "0000000000000000000000000000000000000000000000000000000000000000": 1800
+    },
+    "balance": 1800,
+    "code": "",
+    "status": "OK"
+  }
+}

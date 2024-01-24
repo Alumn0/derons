@@ -1,0 +1,12 @@
+{
+    "added": {
+        "c,t,fee,register": 5000,
+        "c,t,fee,reserve": 500,
+        "c,t,fee,royalty": 2500,
+        "c,updated": 1706072674,
+        "c,updated_human": "2024-01-24 05:04:34",
+        "c,updated_offset": 0
+    },
+    "timestamp": 1706072674,
+    "timestamp_human": "2024-01-24 05:04:34"
+}

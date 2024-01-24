@@ -1,0 +1,19 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072483,
+            "t,1,c,updated_human": "2024-01-24 05:01:23",
+            "t,1,c,updated_offset": -11
+        },
+        "after": {
+            "t,1,c,updated": 1706072493,
+            "t,1,c,updated_human": "2024-01-24 05:01:33",
+            "t,1,c,updated_offset": -1
+        }
+    },
+    "added": {
+        "t,1,c,fee,25": 221133
+    },
+    "timestamp": 1706072494,
+    "timestamp_human": "2024-01-24 05:01:34"
+}

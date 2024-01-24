@@ -1,0 +1,29 @@
+{
+    "changed": {
+        "before": {
+            "c,captain,balance": 5675,
+            "c,captain,balance_human": "Vu",
+            "t,1,c,balance": 17025,
+            "t,1,l,77656c636f6d652d686f6d65": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+            "t,1,l,77656c636f6d652d686f6d65,u": 1706071916,
+            "t,1,l,77656c636f6d652d686f6d65,u_human": "2024-01-24 04:51:56",
+            "t,1,l,77656c636f6d652d686f6d65,u_offset": -13,
+            "balance": 22700
+        },
+        "after": {
+            "c,captain,balance": 6175,
+            "c,captain,balance_human": "au",
+            "t,1,c,balance": 18525,
+            "t,1,l,77656c636f6d652d686f6d65": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+            "t,1,l,77656c636f6d652d686f6d65,u": 1706071929,
+            "t,1,l,77656c636f6d652d686f6d65,u_human": "2024-01-24 04:52:09",
+            "t,1,l,77656c636f6d652d686f6d65,u_offset": 0,
+            "balance": 24700
+        }
+    },
+    "deleted": {
+        "t,1,l,77656c636f6d652d686f6d65,o": 10000
+    },
+    "timestamp": 1706071929,
+    "timestamp_human": "2024-01-24 04:52:09"
+}

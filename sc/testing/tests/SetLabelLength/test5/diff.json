@@ -1,0 +1,24 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,l,length,max": 63,
+            "t,1,c,l,length,max_human": "c",
+            "t,1,c,l,length,min": 1,
+            "t,1,c,l,length,min_human": 1,
+            "t,1,c,updated": 1706072512,
+            "t,1,c,updated_human": "2024-01-24 05:01:52",
+            "t,1,c,updated_offset": -3
+        },
+        "after": {
+            "t,1,c,l,length,max": 42,
+            "t,1,c,l,length,max_human": "B",
+            "t,1,c,l,length,min": 23,
+            "t,1,c,l,length,min_human": "#",
+            "t,1,c,updated": 1706072514,
+            "t,1,c,updated_human": "2024-01-24 05:01:54",
+            "t,1,c,updated_offset": -1
+        }
+    },
+    "timestamp": 1706072515,
+    "timestamp_human": "2024-01-24 05:01:55"
+}

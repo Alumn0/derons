@@ -1,0 +1,20 @@
+{
+    "deleted": {
+        "t,1,c,fee,25": 555555,
+        "t,1,c,fee,25_human": "UUU"
+    },
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072495,
+            "t,1,c,updated_human": "2024-01-24 05:01:35",
+            "t,1,c,updated_offset": -3
+        },
+        "after": {
+            "t,1,c,updated": 1706072498,
+            "t,1,c,updated_human": "2024-01-24 05:01:38",
+            "t,1,c,updated_offset": 0
+        }
+    },
+    "timestamp": 1706072498,
+    "timestamp_human": "2024-01-24 05:01:38"
+}

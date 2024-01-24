@@ -1,0 +1,47 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "stringkeys": {
+      "c,captain": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "c,created": 1706072554,
+      "c,created,height": 2007,
+      "c,t,avail": 0,
+      "c,t,fee,royalty,max": 3000,
+      "t,1": "6465726f",
+      "t,1,c,commander": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+      "t,1,c,duration,extend": 3600,
+      "t,1,c,duration,register": 86400,
+      "t,1,c,duration,reserve": 120,
+      "t,1,c,fee,bid": 1500,
+      "t,1,c,fee,default": 500,
+      "t,1,c,fee,offer": 2000,
+      "t,1,c,fee,reserve": 200,
+      "t,1,c,fee,transfer": 1000,
+      "t,1,c,fee,update": 100,
+      "t,1,c,l,length,max": 20,
+      "t,1,c,l,length,min": 8,
+      "t,1,c,registered": 1706072557,
+      "t,1,c,sunrise": 18446744073709552000,
+      "t,1,c,updated": 1706072580,
+      "t,1,p": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+      "t,2": "6465726f32",
+      "t,2,c,commander": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "t,2,c,registered": 1706072583,
+      "t,2,c,sunrise": 18446744073709552000,
+      "t,2,c,updated": 1706072585,
+      "t,2,p": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+      "t,2,p,announce": "536f206c6f6e672c20616e64207468616e6b7320666f72666620616c6c20746865206669736821",
+      "t,count": 2,
+      "t,list,6465726f": "742c31",
+      "t,list,6465726f32": "742c32",
+      "t,r,counter": 2
+    },
+    "balances": {
+      "0000000000000000000000000000000000000000000000000000000000000000": 0
+    },
+    "balance": 0,
+    "code": "",
+    "status": "OK"
+  }
+}

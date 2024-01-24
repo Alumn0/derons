@@ -1,0 +1,24 @@
+{
+    "changed": {
+        "before": {
+            "c,t,avail": 5,
+            "c,t,refill": 1706072243,
+            "c,t,refill_human": "2024-01-24 04:57:23",
+            "c,t,refill_offset": -20,
+            "c,updated": 1706072251,
+            "c,updated_human": "2024-01-24 04:57:31",
+            "c,updated_offset": -12
+        },
+        "after": {
+            "c,t,avail": 10,
+            "c,t,refill": 1706072272,
+            "c,t,refill_human": "2024-01-24 04:57:52",
+            "c,t,refill_offset": 9,
+            "c,updated": 1706072262,
+            "c,updated_human": "2024-01-24 04:57:42",
+            "c,updated_offset": -1
+        }
+    },
+    "timestamp": 1706072263,
+    "timestamp_human": "2024-01-24 04:57:43"
+}

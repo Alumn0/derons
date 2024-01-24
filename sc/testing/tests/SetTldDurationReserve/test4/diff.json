@@ -1,0 +1,18 @@
+{
+    "changed": {
+        "before": {
+            "c,t,duration,reserve": 86400,
+            "c,updated": 1706072662,
+            "c,updated_human": "2024-01-24 05:04:22",
+            "c,updated_offset": -3
+        },
+        "after": {
+            "c,t,duration,reserve": 600,
+            "c,updated": 1706072664,
+            "c,updated_human": "2024-01-24 05:04:24",
+            "c,updated_offset": -1
+        }
+    },
+    "timestamp": 1706072665,
+    "timestamp_human": "2024-01-24 05:04:25"
+}

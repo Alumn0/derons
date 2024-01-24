@@ -1,0 +1,16 @@
+{
+    "changed": {
+        "before": {
+            "c,captain,balance": 200,
+            "t,1,c,balance": 600,
+            "balance": 800
+        },
+        "after": {
+            "c,captain,balance": 700,
+            "t,1,c,balance": 2100,
+            "balance": 2800
+        }
+    },
+    "timestamp": 1706071755,
+    "timestamp_human": "2024-01-24 04:49:15"
+}

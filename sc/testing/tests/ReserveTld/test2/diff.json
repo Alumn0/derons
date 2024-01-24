@@ -1,0 +1,15 @@
+{
+    "added": {
+        "c,captain,balance": 2500
+    },
+    "changed": {
+        "before": {
+            "balance": 0
+        },
+        "after": {
+            "balance": 2500
+        }
+    },
+    "timestamp": 1706072376,
+    "timestamp_human": "2024-01-24 04:59:36"
+}

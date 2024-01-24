@@ -1,0 +1,38 @@
+{
+    "changed": {
+        "before": {
+            "c,captain,balance": 825,
+            "t,1,c,balance": 2475,
+            "t,1,c,balance_human": "$u",
+            "t,1,l,counter": 1,
+            "balance": 3300
+        },
+        "after": {
+            "c,captain,balance": 1075,
+            "t,1,c,balance": 3225,
+            "t,1,c,balance_human": "2%",
+            "t,1,l,counter": 2,
+            "balance": 4300
+        }
+    },
+    "deleted": {
+        "t,1,r,90cd3a8dfa0df419d7161b0ce121707fcba428b5ac7cada10d82efda1bc44535": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+        "t,1,r,90cd3a8dfa0df419d7161b0ce121707fcba428b5ac7cada10d82efda1bc44535,e": 1706071873,
+        "t,1,r,90cd3a8dfa0df419d7161b0ce121707fcba428b5ac7cada10d82efda1bc44535,e_human": "2024-01-24 04:51:13",
+        "t,1,r,90cd3a8dfa0df419d7161b0ce121707fcba428b5ac7cada10d82efda1bc44535,e_offset": 104
+    },
+    "added": {
+        "t,1,l,7468616e6b73666f72616c6c74686566697368": "079f2dba31467392b8eb1a80b356f7d86d4a25fa606aa9f70b2f1234381acc3301",
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,e": 1706158169,
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,e_human": "2024-01-25 04:49:29",
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,e_offset": 86400,
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,r": 1706071769,
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,r_human": "2024-01-24 04:49:29",
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,r_offset": 0,
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,u": 1706071769,
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,u_human": "2024-01-24 04:49:29",
+        "t,1,l,7468616e6b73666f72616c6c74686566697368,u_offset": 0
+    },
+    "timestamp": 1706071769,
+    "timestamp_human": "2024-01-24 04:49:29"
+}

@@ -1,0 +1,19 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,updated": 1706072774,
+            "t,1,c,updated_human": "2024-01-24 05:06:14",
+            "t,1,c,updated_offset": -3
+        },
+        "after": {
+            "t,1,c,updated": 1706072777,
+            "t,1,c,updated_human": "2024-01-24 05:06:17",
+            "t,1,c,updated_offset": 0
+        }
+    },
+    "deleted": {
+        "t,1,pc": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501"
+    },
+    "timestamp": 1706072777,
+    "timestamp_human": "2024-01-24 05:06:17"
+}

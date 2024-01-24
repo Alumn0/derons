@@ -1,0 +1,20 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "result": {
+    "stringkeys": {
+      "c,captain": "0de0118358eecec059ccaa7f5948d1ca9eb3d789fa48f932e9409abc9847dfb501",
+      "c,created": 1706072080,
+      "c,created,height": 1741,
+      "c,t,avail": 2,
+      "c,t,fee,royalty,max": 3000,
+      "c,updated": 1706072089
+    },
+    "balances": {
+      "0000000000000000000000000000000000000000000000000000000000000000": 0
+    },
+    "balance": 0,
+    "code": "",
+    "status": "OK"
+  }
+}

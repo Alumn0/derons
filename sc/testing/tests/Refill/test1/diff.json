@@ -1,0 +1,23 @@
+{
+    "changed": {
+        "before": {
+            "c,t,avail": 2,
+            "c,updated": 1706072217,
+            "c,updated_human": "2024-01-24 04:56:57",
+            "c,updated_offset": -2
+        },
+        "after": {
+            "c,t,avail": 3,
+            "c,updated": 1706072219,
+            "c,updated_human": "2024-01-24 04:56:59",
+            "c,updated_offset": 0
+        }
+    },
+    "added": {
+        "c,t,refill": 1706072229,
+        "c,t,refill_human": "2024-01-24 04:57:09",
+        "c,t,refill_offset": 10
+    },
+    "timestamp": 1706072219,
+    "timestamp_human": "2024-01-24 04:56:59"
+}

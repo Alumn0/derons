@@ -1,0 +1,18 @@
+{
+    "changed": {
+        "before": {
+            "t,r,counter": 1
+        },
+        "after": {
+            "t,r,counter": 2
+        }
+    },
+    "added": {
+        "t,r,77801061963ee20fc14b06b2f22d175bf58fc891f63e4f1637bffafd7c9d6119": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
+        "t,r,77801061963ee20fc14b06b2f22d175bf58fc891f63e4f1637bffafd7c9d6119,e": 1706072450,
+        "t,r,77801061963ee20fc14b06b2f22d175bf58fc891f63e4f1637bffafd7c9d6119,e_human": "2024-01-24 05:00:50",
+        "t,r,77801061963ee20fc14b06b2f22d175bf58fc891f63e4f1637bffafd7c9d6119,e_offset": 60
+    },
+    "timestamp": 1706072390,
+    "timestamp_human": "2024-01-24 04:59:50"
+}

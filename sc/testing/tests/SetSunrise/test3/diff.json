@@ -1,0 +1,20 @@
+{
+    "changed": {
+        "before": {
+            "t,1,c,sunrise": 1.8446744073709552e+19,
+            "t,1,c,sunrise_human": 1.8446744073709552e+19,
+            "t,1,c,updated": 1706072633,
+            "t,1,c,updated_human": "2024-01-24 05:03:53",
+            "t,1,c,updated_offset": -8
+        },
+        "after": {
+            "t,1,c,sunrise": 1706072649,
+            "t,1,c,sunrise_human": "2024-01-24 05:04:09",
+            "t,1,c,updated": 1706072640,
+            "t,1,c,updated_human": "2024-01-24 05:04:00",
+            "t,1,c,updated_offset": -1
+        }
+    },
+    "timestamp": 1706072641,
+    "timestamp_human": "2024-01-24 05:04:01"
+}
