@@ -20,14 +20,17 @@ DeroNS comprises:
 - Reminder: Remove the DeroNS Resolver from configurations after testing
 
 ## How DeroNS integrates
-![DeroNS-Integrates](https://github.com/Alumn0/derons/assets/145239468/d3a46934-76f2-4e5f-99d6-734d373f6eec)
-
+![DeroNS-Integrates](https://github.com/Alumn0/derons/assets/145239468/a4459567-8fae-4d6e-bd51-2d296b930a7c)
+<br>
+<br>
+<br>
 ## Domain Registration and Management
-![DeroNS-Domains](https://github.com/Alumn0/derons/assets/145239468/f32bfb6f-0a31-427c-bdf6-ba796f2f3907)
-
+![DeroNS-Domains](https://github.com/Alumn0/derons/assets/145239468/64b0eda6-fceb-46bb-b731-a1e86b91aba2)
+<br>
+<br>
+<br>
 ## DeroNS Smart Contract features
-![DeroNS-Features](https://github.com/Alumn0/derons/assets/145239468/b777fef3-fbd9-4c94-878d-7fcf721dead3)
-
+![DeroNS-Features](https://github.com/Alumn0/derons/assets/145239468/17440860-87c2-44db-a1c8-32ff62d5edfc)
 
 ---
 
