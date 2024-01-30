@@ -23,7 +23,7 @@ DeroNS comprises:
 ![DeroNS-Integrates](https://github.com/Alumn0/derons/assets/145239468/d3a46934-76f2-4e5f-99d6-734d373f6eec)
 
 ## Domain Registration and Management
-![DeroNS-Domains](https://github.com/Alumn0/derons/assets/145239468/53faa464-c1eb-45c7-a0ba-086da6c2b998)
+![DeroNS-Domains](https://github.com/Alumn0/derons/assets/145239468/f32bfb6f-0a31-427c-bdf6-ba796f2f3907)
 
 ## DeroNS Smart Contract features
 ![DeroNS-Features](https://github.com/Alumn0/derons/assets/145239468/07fd476d-0df9-415b-92c3-b13f5e321cb9)
