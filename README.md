@@ -26,7 +26,8 @@ DeroNS comprises:
 ![DeroNS-Domains](https://github.com/Alumn0/derons/assets/145239468/f32bfb6f-0a31-427c-bdf6-ba796f2f3907)
 
 ## DeroNS Smart Contract features
-![DeroNS-Features](https://github.com/Alumn0/derons/assets/145239468/07fd476d-0df9-415b-92c3-b13f5e321cb9)
+![DeroNS-Features](https://github.com/Alumn0/derons/assets/145239468/b777fef3-fbd9-4c94-878d-7fcf721dead3)
+
 
 ---
 
