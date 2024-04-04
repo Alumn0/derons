@@ -25,9 +25,10 @@ PHP 8.x<br>
 ## Execute specific smart contract function tests
 
 `php executeTests.php <SC function name>`<br>
-`php executeTests.php Vote`<br>
-`php executeTests.php TallyVotes`<br>
-`php executeTests.php UpdateVotingFee`<br>
+`php executeTests.php Reserve`<br>
+`php executeTests.php Claim`<br>
+`php executeTests.php Offer`<br>
+`php executeTests.php Bid`<br>
 
 
 ### Explanation
