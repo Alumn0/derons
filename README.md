@@ -1,11 +1,12 @@
 # Dero Name Service (DeroNS or DNS)
-
-DeroNS extends ICANN's DNS system by adding new Top Level Domains (TLDs) like `.dero` and domains such as `homebase.dero`. These are registered through the DeroNS Smart Contract and integrate with existing networks using the DeroNS Resolver. Domain registration and management are facilitated by the DeroNS CLI and user-friendly DeroNS App.
+<img src="https://github.com/Alumn0/derons/assets/145239468/529d2090-2149-4216-94ec-916810b71953" width="700">
+<br>
+<br>
 
 ## Components
 DeroNS comprises:
 1. **One Smart Contract**: Handles domain registration on the DERO blockchain.
-2. **CLI / App**: Tools for domain management.
+2. **CLI / App** (in development): Tools for domain management.
 3. **Resolver**: Connects DeroNS domains with standard DNS queries.
    - Supports DNS records: `a`, `aaaa`, `txt`, `cname`, `mx`, `srv`
 
@@ -20,17 +21,16 @@ DeroNS comprises:
 - Reminder: Remove the DeroNS Resolver from configurations after testing
 
 ## How DeroNS integrates
-![DeroNS-Integrates](https://github.com/Alumn0/derons/assets/145239468/a4459567-8fae-4d6e-bd51-2d296b930a7c)
+<img src="https://github.com/Alumn0/derons/assets/145239468/692aad1c-c6b1-4d50-8be9-5f3b605467cf" width="700">
 <br>
 <br>
 <br>
+
 ## Domain Registration and Management
-![DeroNS-Domains](https://github.com/Alumn0/derons/assets/145239468/64b0eda6-fceb-46bb-b731-a1e86b91aba2)
+<img src="https://github.com/Alumn0/derons/assets/145239468/97bcc36d-e62f-41ba-8271-9005bb0abd16" width="700">
 <br>
 <br>
 <br>
-## DeroNS Smart Contract features
-![DeroNS-Features](https://github.com/Alumn0/derons/assets/145239468/17440860-87c2-44db-a1c8-32ff62d5edfc)
 
 ---
 
