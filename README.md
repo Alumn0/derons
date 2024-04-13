@@ -32,12 +32,6 @@ DeroNS comprises:
 <br>
 <br>
 
----
-
-> [!IMPORTANT]
-> This documentation is a work in progress. Please check back frequently for updates.
-
----
 
 ## Sponsorship Request
 
