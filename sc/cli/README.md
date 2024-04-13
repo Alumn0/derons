@@ -14,13 +14,13 @@ The script `getScStatus_testnet.sh` expects a **daemon rpc** accessible at `127.
 ## Invoking smart contract functions
 
 ### Example: Reserve a domain (label hash)
-`./invoke.sh Reserve 0 2 1 homebase`
+`./invoke_testnet.sh Reserve 0 2 1 homebase`
 
 ### Example: Claim a domain (label)
-`./invoke.sh Claim 0 2 1 homebase`
+`./invoke_testnet.sh Claim 0 2 1 homebase`
 
 ### Explanation
-`./invoke.sh` executes the wrapper (needs to be in the current working directory)<br>
+`./invoke_testnet.sh` executes the wrapper (needs to be in the current working directory)<br>
 `Reserve` and `Claim` are the names of the smart contract functions to invoke.<br>
 `0 2 1` defines how many DERI (0) to send in the transaction, the ring size (2) and the top level domain to perform the action on (1 = .dero).<br>
 `homebase` is the domain label (homebase.dero) to first reserve and then claim.<br>
