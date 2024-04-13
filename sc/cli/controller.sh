@@ -13,5 +13,8 @@ else
     exit 1
 fi
 
+echo -e "\nCommand:"
 echo ${COMMAND[@]}
+echo -e "\nOutput:"
 echo $(eval ${COMMAND[@]})
+echo -e "\n"
