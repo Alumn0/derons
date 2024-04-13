@@ -9,7 +9,7 @@ shift
 shift
 
 if [ -f /.dockerenv ]; then
-    $BASEDIR/controller.sh $FUNCTION host.docker.internal:40403 $DEROVALUE $SCID "$@"
+    $BASEDIR/controller.sh $FUNCTION dero-cli-testnet:40403 $DEROVALUE $SCID "$@"
 else
     $BASEDIR/controller.sh $FUNCTION 127.0.0.1:40403 $DEROVALUE $SCID "$@"
 fi
