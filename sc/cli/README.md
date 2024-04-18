@@ -124,7 +124,7 @@ t,1,l,<DOMAIN-HEX>,z = Encoded stored zone data (String)
 t,1,l,<DOMAIN-HEX>,z,e = Zone data encoding, defaults to `msgpack/zlib` (String)
 ```
 
-#### Step 8: Query domain resource records
+#### Step 10: Query domain resource records
 Query domain test12345678.dero's "a"-resource record. Be sure to wait 5 minutes for the name server to update its data from the blockchain. Adjust `a` to the resource record type you want to query (`a`, `aaaa`, `cname`, `txt`, `srv`, `mx`) and remove `+short` for a more detailed output.
 ```shell
 docker run --rm alumn0/derons-cli dig @ns1.testnet.dero.zone test12345678.dero a +short
