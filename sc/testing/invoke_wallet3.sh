@@ -11,4 +11,4 @@ DEROVALUE="$2"
 shift
 shift
 
-$CLIDIR/controller.sh $FUNCTION 127.0.0.1:30002 $DEROVALUE $SCID "$@"
+$CLIDIR/controller.sh $FUNCTION 127.0.0.1:20203 $DEROVALUE $SCID "$@"
