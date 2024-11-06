@@ -323,16 +323,17 @@ Function ClaimTransferSc() Uint64
 7 RETURN 1
 End Function
 
-Function SetScSuccessor(scid String, data String) Uint64
-1 IF isCaptain() != 1 THEN GOTO 9
-2 STORE("c,successor,scid", scid)
+Function SetCsp(scid String, data String) Uint64
+1 IF isCaptain() != 1 THEN GOTO 10
+2 STORE("cspScid", scid)
 3 IF data == "" THEN GOTO 6
-4 STORE("c,successor", HEXDECODE(data))
+4 STORE("cspData", HEXDECODE(data))
 5 GOTO 7
-6 STORE("c,successor", "")
-7 STORE("c,updated", bt())
-8 RETURN 0
-9 RETURN 1
+6 STORE("cspData", "")
+7 STORE("cspUpdate", bt())
+8 STORE("c,updated", bt())
+9 RETURN 0
+10 RETURN 1
 End Function
 
 Function TransferP(tld Uint64, d String) Uint64

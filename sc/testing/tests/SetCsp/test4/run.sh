@@ -5,6 +5,6 @@ BASEDIR="$(dirname "$(dirname "$(dirname "$TESTDIR")")")"
 
 $BASEDIR/getScStatus.sh $TESTDIR/before.json
 
-$BASEDIR/invoke_wallet1.sh SetScSuccessor 0 2 1234567890 
+$BASEDIR/invoke_wallet1.sh SetCsp 0 2 1234567890 
 sleep 1
 $BASEDIR/getScStatus.sh $TESTDIR/after.json

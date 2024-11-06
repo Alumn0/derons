@@ -395,7 +395,7 @@ Example:
 ClaimTransferSc()
 
 
-Function SetScSuccessor(scid String, data String) Uint64
+Function SetCsp(scid String, data String) Uint64
 
 Sets a successor contract with arbitrary data.
 
@@ -404,7 +404,7 @@ scid - successor contract id
 data - arbitrary data (hexencoded)
 
 Example:
-SetScSuccessor("8d3ba65b9203e83356e076e375e7bc20e7ab1ef5ce3228fe464f28f029d5699d", "7768617465766572")
+SetCsp("8d3ba65b9203e83356e076e375e7bc20e7ab1ef5ce3228fe464f28f029d5699d", "7768617465766572")
 
 
 Function TransferP(tld Uint64, d String) Uint64

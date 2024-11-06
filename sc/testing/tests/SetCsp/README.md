@@ -1,7 +1,8 @@
 Description: Set max available top level domain labels for registration.
 
 Affects:
-c,successor,scid
-c,successor
+cspScid
+cspData
+cspUpdate
 c,updated
 

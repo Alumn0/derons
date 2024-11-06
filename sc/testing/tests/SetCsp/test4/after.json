@@ -4,13 +4,14 @@
   "result": {
     "stringkeys": {
       "c,captain": "184c9043c6d4912756203d945b3057128992869fbc4d2c81ba4c5879d1db08da00",
-      "c,created": 1706072605,
-      "c,created,height": 2039,
-      "c,successor": "",
-      "c,successor,scid": "31323334353637383930",
+      "c,created": 1730925229,
+      "c,created,height": 30,
       "c,t,avail": 2,
       "c,t,fee,royalty,max": 3000,
-      "c,updated": 1706072613
+      "c,updated": 1730925238,
+      "cspData": "",
+      "cspScid": "31323334353637383930",
+      "cspUpdate": 1730925238
     },
     "balances": {
       "0000000000000000000000000000000000000000000000000000000000000000": 0

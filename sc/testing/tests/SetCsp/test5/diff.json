@@ -1,0 +1,26 @@
+{
+    "changed": {
+        "before": {
+            "c,updated": 1730925238,
+            "c,updated_human": "2024-11-06 20:33:58",
+            "c,updated_offset": -3,
+            "cspScid": "31323334353637383930",
+            "cspScid_human": "1234567890",
+            "cspUpdate": 1730925238,
+            "cspUpdate_human": "2024-11-06 20:33:58",
+            "cspUpdate_offset": -3
+        },
+        "after": {
+            "c,updated": 1730925240,
+            "c,updated_human": "2024-11-06 20:34:00",
+            "c,updated_offset": -1,
+            "cspScid": "",
+            "cspScid_human": "",
+            "cspUpdate": 1730925240,
+            "cspUpdate_human": "2024-11-06 20:34:00",
+            "cspUpdate_offset": -1
+        }
+    },
+    "timestamp": 1730925241,
+    "timestamp_human": "2024-11-06 20:34:01"
+}
